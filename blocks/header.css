@@ -5,27 +5,8 @@
   justify-content: center;
 }
 
-.header__bar {
-  width: 1440;
-  height: 46;
-  justify-content: center;
-  border-bottom-width: 1px;
-  padding-top: 10px;
-  padding-right: 80px;
-  padding-bottom: 10px;
-  padding-left: 80px;
-  background: #ffffff;
-}
-
 .header__logo {
   margin: 0 auto;
   width: 94px;
   height: 26px;
-}
-
-@media screen and (max-width: 627px) {
-  .header__bar_logo {
-    width: 94px;
-    height: 26px;
-  }
 }
