@@ -1,7 +1,7 @@
 .footer {
   display: flex;
   justify-content: center;
-  margin: 50px;
+  padding: 60px 0;
   color: #212121;
   opacity: 70%;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
