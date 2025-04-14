@@ -18,7 +18,8 @@ This project is made so all the elements are displayed correctly on popular scre
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
-Good luck and have fun!
+**Deployment Link**
+https://rozmafoo.github.io/se_project_spots/
 
-Link for video presentation
-https://youtu.be/R-66s-MWC8s
+**Video presentation**
+https://www.youtube.com/watch?v=FSVab-ETk8Y
